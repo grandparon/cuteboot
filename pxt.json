@@ -1,0 +1,23 @@
+{
+    "name": "Cuteboot",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "Twinkle Night Light": "github:grandparon/twinkle-night-light#master",
+        "cutebot": "github:elecfreaks/pxt-cutebot#v4.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
